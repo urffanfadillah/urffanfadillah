@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @urffanfadillah
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🤓 Wengdev Wannabe
 
 <!---
 urffanfadillah/urffanfadillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
