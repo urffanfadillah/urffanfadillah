@@ -1,17 +1,14 @@
 # Urffan Fadillah
 
 ## About Me
-Web programmer and designer.
-
-## Programming
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,vite,vitest,python)](https://skillicons.dev)
+I making a frontend website
 
 ## Product Design
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,vite,vitest,python,figma)](https://skillicons.dev)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/urffanfadillah"
+    src="https://media1.tenor.com/m/3hKhg-qy7gQAAAAd/yuuka-yuuka-blue-archive.gif"
     width="600"
     height="120"
   />
