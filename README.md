@@ -5,10 +5,8 @@ I making a frontend website
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,vite,vitest,python,figma)](https://skillicons.dev)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://media1.tenor.com/m/3hKhg-qy7gQAAAAd/yuuka-yuuka-blue-archive.gif"
-    width="400"
-  />
-</a>
+<img
+  src="https://media1.tenor.com/m/3hKhg-qy7gQAAAAd/yuuka-yuuka-blue-archive.gif"
+  width="400"
+/>
 
