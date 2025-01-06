@@ -3,7 +3,6 @@
 ## About Me
 I making a frontend website
 
-## Product Design
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,vite,vitest,python,figma)](https://skillicons.dev)
 
 <a href="https://github.com/devxb/gitanimals">
