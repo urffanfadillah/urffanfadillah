@@ -8,7 +8,7 @@ I making a frontend website
 ## Activity
 Currently, I join several Indonesia tech community, for now I focusing working in web frontend, and developing a working habit for a frontend, such a boilerplates, design system, etc  
 
-## projects
+## Projects
 - <a href="https://www.seikosukapura.com">Seiko Sukapura</a> | Job Placement Agency
 - <a href="https://cusauansibarrung.org/">CU Sauan Sibarrung</a> | Credit Union
 - <a href="https://www.figma.com/proto/xe6wRSkjBExKVIhZDKs8tM?node-id=105-849&t=ou5aFVBCHYK7olaw-6">Sekoci Seafood</a> | Food Delivery
