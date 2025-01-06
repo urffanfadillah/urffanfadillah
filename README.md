@@ -9,8 +9,7 @@ I making a frontend website
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://media1.tenor.com/m/3hKhg-qy7gQAAAAd/yuuka-yuuka-blue-archive.gif"
-    width="600"
-    height="120"
+    width="400"
   />
 </a>
 
