@@ -1,4 +1,13 @@
 # Urffan Fadillah
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/urffanfadillah"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ## About Me
 Web programmer and designer.
 
