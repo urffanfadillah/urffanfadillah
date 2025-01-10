@@ -3,7 +3,7 @@
 ## About Me
 I making a frontend website
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mui,tailwind,nodejs,typescript,react,vite,vitest,github,azure,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mui,bootstrap,tailwind,nodejs,typescript,react,next,vite,vitest,github,azure,figma)](https://skillicons.dev)
 
 ## Activity
 Currently, I join several Indonesia tech community, for now I focusing working in web frontend, and developing a working habit for a frontend, such a boilerplates, design system, etc  
