@@ -1,7 +1,7 @@
 # Urffan Fadillah
 
 ## About Me
-I making a frontend website
+I making a frontend website.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mui,bootstrap,tailwind,nodejs,typescript,react,next,vite,vitest,github,azure,figma)](https://skillicons.dev)
 
